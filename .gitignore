@@ -1,0 +1,17 @@
+# Fluent files to ignore
+*.trn
+*.out
+*.log
+libudf/
+*.cas.h5.bak
+*.dat.h5
+*.ip
+*.jou
+cleanup-fluent-*
+
+# General files to ignore
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
